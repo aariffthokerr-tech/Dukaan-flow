@@ -1,0 +1,8 @@
+{
+  "name": "DukaanFlow",
+  "description": "Multi-tenant retail SaaS platform for independent shops to launch and manage their online storefronts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
